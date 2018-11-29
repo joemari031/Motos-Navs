@@ -1,0 +1,34 @@
+.jomnav{
+background-color: grey; 
+overflow: hidden;
+}
+
+.jomnav a{
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+	font-size: 17px;
+	font-family: courier;
+}
+
+.jomnav a:hover{
+	background-color: grey;
+	color: black;
+}
+
+.jomnav a.active{
+	background-color:black ;
+	color: white;
+}
+
+h1{
+	font-size: 40px;
+	color: red;
+	
+}
+h2{
+	font-size: 40px;
+	color: #0843E5;
+}
